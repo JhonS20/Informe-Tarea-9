@@ -47,7 +47,7 @@ VIDEO
 
 CONCLUSIONES
 
-- El capacitor y el inductor tienen comoportamientos opuestos, debido a que tienen un desface  180 grados lo que provoca que resten de forma algebraica, el comportamiento de las ondas sinusoidales dependera de frecuencia de la fuete de voltaje alterno.
+- El capacitor y el inductor tienen comportamientos opuestos, debido a que tienen un desface  180 grados lo que provoca que resten de forma algebraica, el comportamiento de las ondas sinusoidales dependerá de frecuencia de la fuete de voltaje alterno.
 
 BIBLIOGRAFIAS
 
