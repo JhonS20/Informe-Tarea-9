@@ -14,6 +14,9 @@ CAPITULO 17
 
 CAPITULO 18
 
+![Filtro pasivo](https://user-images.githubusercontent.com/93209004/155739637-e7d49e0c-ea7c-4395-a462-7cbed91e8551.png)
+
+
 RESOLUCION DE EERCICIOS 
 
 CAPITULO 17
