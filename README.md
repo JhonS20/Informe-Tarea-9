@@ -176,6 +176,8 @@ CAPITULO 18
 
 VIDEO
 
+https://studio.youtube.com/video/E7xjxuUHIVw/edit
+
 CONCLUSIONES
 
 - El capacitor y el inductor tienen comportamientos opuestos, debido a que tienen un desface  180 grados lo que provoca que resten de forma algebraica, el comportamiento de las ondas sinusoidales dependerá de frecuencia de la fuete de voltaje alterno.
