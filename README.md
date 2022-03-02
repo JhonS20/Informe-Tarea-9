@@ -13,6 +13,9 @@ MARCO TEORICO
 
 CAPITULO 17
 
+
+![Diagrama en blanco (14)](https://user-images.githubusercontent.com/93899658/156442431-3a3194e0-baba-405f-a206-e3bcac1fdb26.png)
+
 CAPITULO 18
 
 ![Filtro pasivo](https://user-images.githubusercontent.com/93209004/155739637-e7d49e0c-ea7c-4395-a462-7cbed91e8551.png)
