@@ -2,11 +2,12 @@
 
 OBJETIVO GENERAL 
 
-
+•	Estudiar y comprender los circuitos RLC y los filtros a través de estos. 
 
 OBJETIVO ESPECIFICO
 
 - Analizar el comportamiento de un circuito RLC energizados con corriente alterna. 
+- Analizar la operación de filtros pasabajas, pasaaltas, pasabandas y rechazabandas. 
 
 MARCO TEORICO
 
@@ -175,6 +176,7 @@ VIDEO
 CONCLUSIONES
 
 - El capacitor y el inductor tienen comportamientos opuestos, debido a que tienen un desface  180 grados lo que provoca que resten de forma algebraica, el comportamiento de las ondas sinusoidales dependerá de frecuencia de la fuete de voltaje alterno.
+- Los filtros se dividen generalmente en pasaltas, pasabajas y pasabandas y son muy útiles para filtrar frecuencias ya sean altas, bajas o intermedias, a través de elementos pasivos R L C.
 
 BIBLIOGRAFIAS
 
